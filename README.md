@@ -34,14 +34,34 @@ We don't know yet. Maybe through some machine learning algorithms ;)
 
 ### What is your tech stack?
 
-- PHP >= 5.4
-- MySQL
-- [Slim Framework](http://www.slimframework.com)
-- [Fractal by The League](http://fractal.thephpleague.com/)
-- Bootstrap
-- jQuery
+- [Ruby On Rails](http://rubyonrails.org/)
+- [MySQL](http://www.mysql.org)
+- [Bootstrap](http://getbootstrap.com)
+- [jQuery](http://jquery.org)
 
-### Contributions?
+## Development
+
+Things we may want to cover for development:
+
+* Ruby version >= 1.9.8
+
+* System dependencies
+
+    - Rails 4.2.5
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+## Contributions?
 
 This is mainly a learning and collaboration project among friends and since most of us are students we are willing to accept contributions; as long as we are learning ;).
 
@@ -49,7 +69,7 @@ So just fork this repo and create a pull request if you want your contributions 
 
 ## Team / Contributors
 
-This is mainly a collaboration among friends (most of us students in Malawi):
+This is mainly a collaboration among friends:
 
 **NB:** Clone this repo and add your name to the list
 
