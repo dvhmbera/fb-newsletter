@@ -23,7 +23,7 @@ module FbNewsletter
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
       
-      config.facebook.app_id = ENV['FACEBOOK_APP_ID']
-      config.facebook.app_secret = ENV['FACEBOOK_APP_SECRET']
+    # config.facebook.app_id = ENV['FACEBOOK_APP_ID']
+    # config.facebook.app_secret = ENV['FACEBOOK_APP_SECRET']
   end
 end
