@@ -16,4 +16,7 @@
 !/log/.keep
 /tmp
 docs/notes
+
+# Configuration files
 config/secrets.yml
+config/database.yml
