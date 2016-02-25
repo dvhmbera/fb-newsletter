@@ -35,7 +35,7 @@ We don't know yet. Maybe through some machine learning algorithms ;)
 ### What is your tech stack?
 
 - [Ruby On Rails](http://rubyonrails.org/)
-- [MySQL](http://www.mysql.org)
+- [PostgreSQL](http://www.postgresql.org/)
 - [Bootstrap](http://getbootstrap.com)
 - [jQuery](http://jquery.org)
 
@@ -43,7 +43,7 @@ We don't know yet. Maybe through some machine learning algorithms ;)
 
 Things we may want to cover for development:
 
-* Ruby version >= 1.9.8
+* Ruby version >= 2.0.0
 
 * System dependencies
 
@@ -74,7 +74,7 @@ This is mainly a collaboration among friends:
 **NB:** Clone this repo and add your name to the list
 
 * [@zikani03](https://github.com/zikani03)
-
+* [@cillacodes](https://github.com/cillacodes)
 
 ## LICENSE
 
